@@ -1,0 +1,8 @@
+You: hi
+Bot: Hey there, happy to see you!
+You: who are you
+Bot: I am Shegitu Shukuri.
+You: how can i contact you
+Bot: You can contact me through my LinkedIn account.
+You: python u cusershpdesktopfaqportfoliofaqchatbotportfoliofaqpy
+Bot: Sorry, I don’t understand.
